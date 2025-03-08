@@ -36,5 +36,5 @@ This project is a **microservices-based e-commerce system** built using **Spring
 ## 🚀 How to Run  
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone https://github.com/yourusername/microservices-ecommerce.git
-cd microservices-ecommerce
+git clone https://github.com/VishalKmk/MicroSerives/
+cd MicroServices
